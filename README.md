@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next JS along with Backend**
 
-- 👨‍💻 All of my projects are available at [www.sheikhubaid.me](www.sheikhubaid.me)
+- 👨‍💻 All of my projects are available at [www.sheikhubaid.me](https://www.sheikhubaid.me)
 
 - 💬 Ask me about **ReactJS, TypeScript, Frontend Developement**
 
