@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sheikhubaidullah10@gmail.com**
 
-- 📄 Know about my experiences [sheikhubaid.me/CV.pdf](sheikhubaid.me/CV.pdf)
+- 📄 Know about my experiences [sheikhubaid.me/CV.pdf](www.sheikhubaid.me/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
