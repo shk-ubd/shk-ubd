@@ -1,5 +1,15 @@
-<img src="./mark.svg" width="100%" alt="Sheikh Ubaid Ullah. The work is already happening. The software should keep up.">
+<p align="center">
+  <img src="./terminal.svg" width="100%" alt="Terminal session. Sheikh Ubaid Ullah, full-stack developer at MT Pixels in Karachi. Builds web applications.">
+</p>
 
-Full-stack developer at MT Pixels in Karachi. Angular and Next.js, for orders, accounts, and field operations.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,tailwind,nodejs,express&perline=7" alt="Angular, React, Next.js, TypeScript, Tailwind, Node.js, Express">
+</p>
 
-[sheikhubaid.me](https://www.sheikhubaid.me) · [LinkedIn](https://www.linkedin.com/in/sheikh-ubaid) · [sheikh.ubaidullah10@gmail.com](mailto:sheikh.ubaidullah10@gmail.com)
+<p align="center">
+  <a href="https://www.sheikhubaid.me"><b>sheikhubaid.me</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sheikh-ubaid">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:sheikh.ubaidullah10@gmail.com">sheikh.ubaidullah10@gmail.com</a>
+</p>

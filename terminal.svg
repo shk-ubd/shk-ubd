@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="700" viewBox="0 0 1100 700" role="img">
+  <title>Sheikh Ubaid Ullah. Full-stack developer at MT Pixels, Karachi.</title>
+  <defs>
+    <clipPath id="shell">
+      <rect width="1100" height="700" rx="22"/>
+    </clipPath>
+    <clipPath id="c1"><rect x="64" y="118" height="36" width="0"><animate attributeName="width" begin="0.35s" dur="0.7s" from="0" to="220" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="64" y="198" height="36" width="0"><animate attributeName="width" begin="1.7s" dur="0.55s" from="0" to="160" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="64" y="278" height="36" width="0"><animate attributeName="width" begin="3.15s" dur="0.6s" from="0" to="180" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="64" y="358" height="36" width="0"><animate attributeName="width" begin="4.7s" dur="0.55s" from="0" to="160" fill="freeze"/></rect></clipPath>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102033"/>
+      <stop offset="0.55" stop-color="#070b12"/>
+      <stop offset="1" stop-color="#120818"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#shell)">
+    <rect width="1100" height="700" fill="url(#wash)"/>
+    <ellipse cx="180" cy="40" rx="220" ry="90" fill="#134e4a" opacity="0.45"/>
+    <ellipse cx="980" cy="580" rx="260" ry="120" fill="#4c1d95" opacity="0.28"/>
+    <g opacity="0.18" stroke="#5eead4" fill="none">
+      <path d="M0 40 H1100 M0 80 H1100 M0 120 H1100 M0 160 H1100 M0 200 H1100 M0 240 H1100 M0 280 H1100 M0 320 H1100 M0 360 H1100 M0 400 H1100 M0 440 H1100 M0 480 H1100 M0 520 H1100 M0 560 H1100 M0 600 H1100 M0 640 H1100 M0 680 H1100"/>
+    </g>
+    <rect x="36" y="28" width="1028" height="644" rx="18" fill="#0b1018" stroke="#5eead4" stroke-opacity="0.35">
+      <animate attributeName="stroke-opacity" values="0.25;0.7;0.25" dur="3.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="36" y="28" width="1028" height="52" rx="18" fill="#121924"/>
+    <rect x="36" y="58" width="1028" height="22" fill="#121924"/>
+    <circle cx="66" cy="54" r="6.5" fill="#ff5f57"/>
+    <circle cx="90" cy="54" r="6.5" fill="#febc2e"/>
+    <circle cx="114" cy="54" r="6.5" fill="#28c840"/>
+    <text x="550" y="59" text-anchor="middle" fill="#93a4b8" font-family="Consolas, 'Cascadia Mono', ui-monospace, monospace" font-size="15">shk-ubd@karachi : ~</text>
+    <circle cx="980" cy="54" r="4" fill="#4ade80">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="994" y="59" fill="#4ade80" font-family="Consolas, 'Cascadia Mono', ui-monospace, monospace" font-size="13">live</text>
+
+    <g clip-path="url(#c1)" font-family="Consolas, 'Cascadia Mono', ui-monospace, monospace" font-size="22">
+      <text x="68" y="142" fill="#5eead4">$</text>
+      <text x="92" y="142" fill="#f4f7fb">whoami</text>
+    </g>
+    <text x="92" y="176" fill="#b7c3d4" font-family="Consolas, 'Cascadia Mono', ui-monospace, monospace" font-size="22" opacity="0">Sheikh Ubaid Ullah<animate attributeName="opacity" begin="1.15s" dur="0.25s" from="0" to="1" fill="freeze"/></text>
+
+    <g clip-path="url(#c2)" font-family="Consolas, 'Cascadia Mono', ui-monospace, monospace" font-size="22">
+      <text x="68" y="222" fill="#5eead4">$</text>
+      <text x="92" y="222" fill="#f4f7fb">role</text>
+    </g>
+    <text x="92" y="256" fill="#b7c3d4" font-family="Consolas, 'Cascadia Mono', ui-monospace, monospace" font-size="22" opacity="0">Full-stack developer at MT Pixels<animate attributeName="opacity" begin="2.4s" dur="0.25s" from="0" to="1" fill="freeze"/></text>
+
+    <g clip-path="url(#c3)" font-family="Consolas, 'Cascadia Mono', ui-monospace, monospace" font-size="22">
+      <text x="68" y="302" fill="#5eead4">$</text>
+      <text x="92" y="302" fill="#f4f7fb">build</text>
+    </g>
+    <text x="92" y="336" fill="#b7c3d4" font-family="Consolas, 'Cascadia Mono', ui-monospace, monospace" font-size="22" opacity="0">Web applications<animate attributeName="opacity" begin="3.9s" dur="0.25s" from="0" to="1" fill="freeze"/></text>
+
+    <g clip-path="url(#c4)" font-family="Consolas, 'Cascadia Mono', ui-monospace, monospace" font-size="22">
+      <text x="68" y="382" fill="#5eead4">$</text>
+      <text x="92" y="382" fill="#f4f7fb">site</text>
+    </g>
+    <text x="92" y="416" fill="#4ade80" font-family="Consolas, 'Cascadia Mono', ui-monospace, monospace" font-size="22" opacity="0">sheikhubaid.me<animate attributeName="opacity" begin="5.35s" dur="0.25s" from="0" to="1" fill="freeze"/></text>
+    <rect x="292" y="398" width="12" height="22" fill="#5eead4" opacity="0">
+      <animate attributeName="opacity" begin="5.7s" values="0;1;0" dur="1.05s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="68" y1="468" x2="1032" y2="468" stroke="#1e293b"/>
+    <text x="68" y="508" fill="#64748b" font-family="Consolas, 'Cascadia Mono', ui-monospace, monospace" font-size="13">CLIENT</text>
+    <g font-family="Consolas, 'Cascadia Mono', ui-monospace, monospace" font-size="16">
+      <text x="68" y="540" fill="#5eead4" opacity="0">ANGULAR<animate attributeName="opacity" begin="6.0s" dur="0.2s" from="0" to="1" fill="freeze"/></text>
+      <text x="210" y="540" fill="#7dd3fc" opacity="0">NEXT.JS<animate attributeName="opacity" begin="6.2s" dur="0.2s" from="0" to="1" fill="freeze"/></text>
+      <text x="340" y="540" fill="#c4b5fd" opacity="0">REACT<animate attributeName="opacity" begin="6.4s" dur="0.2s" from="0" to="1" fill="freeze"/></text>
+      <text x="450" y="540" fill="#f4f7fb" opacity="0">TYPESCRIPT<animate attributeName="opacity" begin="6.6s" dur="0.2s" from="0" to="1" fill="freeze"/></text>
+      <text x="640" y="540" fill="#67e8f9" opacity="0">TAILWIND<animate attributeName="opacity" begin="6.8s" dur="0.2s" from="0" to="1" fill="freeze"/></text>
+    </g>
+    <text x="68" y="590" fill="#64748b" font-family="Consolas, 'Cascadia Mono', ui-monospace, monospace" font-size="13">SERVER</text>
+    <g font-family="Consolas, 'Cascadia Mono', ui-monospace, monospace" font-size="16">
+      <text x="68" y="622" fill="#86efac" opacity="0">NODE.JS<animate attributeName="opacity" begin="7.1s" dur="0.2s" from="0" to="1" fill="freeze"/></text>
+      <text x="200" y="622" fill="#f4f7fb" opacity="0">EXPRESS<animate attributeName="opacity" begin="7.35s" dur="0.2s" from="0" to="1" fill="freeze"/></text>
+    </g>
+  </g>
+</svg>
